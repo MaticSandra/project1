@@ -5,6 +5,8 @@ public class Test {
     String nazivTesta;
     double trajanjeTesta;
 
+    String brTesta;
+
     public String getNazivTesta() {
         return nazivTesta;
     }
@@ -28,4 +30,5 @@ public class Test {
                 ", trajanjeTesta=" + trajanjeTesta +
                 '}';
     }
+
 }
