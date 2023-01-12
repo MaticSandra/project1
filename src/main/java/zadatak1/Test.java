@@ -27,8 +27,7 @@ public class Test {
     public String toString() {
         return "Test{" +
                 "nazivTesta='" + nazivTesta + '\'' +
-                ", trajanjeTesta=" + trajanjeTesta +
-                '}';
+                ", trajanjeTesta=" + trajanjeTesta + " " + brTesta;
     }
 
 }
